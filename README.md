@@ -3,6 +3,63 @@
 - 동작 원리의 이해와 구체적인 조언 62가지 
 
 ## 스터디
+<table>
+  <tr>
+    <td align="center" width="92px">
+      <a href="https://github.com/a-honey" target="_blank">
+       <img src="https://github.com/learning-with/learning-react/assets/75254185/6e087fa7-dd77-4353-9643-a4b9c081d958" alt="마님 프로필"/>
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/hyeb-in" target="_blank">
+        <img src="https://github.com/learning-with/learning-js/assets/101353408/9d690924-d984-4eca-a5c8-45872a7344ca" alt="굉스터 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/devchaeyoung target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/124546770?v=4" alt="진채영 프로필" />
+      </a>
+    </td>
+    <td align="center" width="92px">
+      <a href="https://github.com/LCGechk0311" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/134675465?v=4" alt="창근 프로필" />
+      </a>
+    </td>
+        <td align="center" width="92px">
+      <a href="https://github.com/he110-wOrld" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/134676310?s=400&u=34078b40b72196dac4999fd8c15d084a73b691a2&v=4" alt="지호 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/a-honey" target="_blank">
+        마님
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hyeb-in" target="_blank">
+        굉스터
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/devchaeyoung" target="_blank">
+        진채영
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/LCGechk0311" target="_blank">
+        창근
+      </a>
+    </td>
+        </td>
+     <td align="center">
+      <a href="https://github.com/ji-hoood" target="_blank">
+        지호
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 목차
 #### 1. 타입스크립트 알아보기
