@@ -39,11 +39,6 @@
         <img src="https://github.com/hamo-o.png?width=200px" alt="햄 프로필" />
       </a>
     </td>
-    <td align="center" width="92px">
-      <a href="https://github.com/koh1260" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/79243335?v=4?width=200px" alt="해성 프로필" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -75,11 +70,6 @@
      <td align="center">
       <a href="https://github.com/hamo-o" target="_blank">
         햄
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/koh1260" target="_blank">
-        해성
       </a>
     </td>
   </tr>
