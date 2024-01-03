@@ -30,7 +30,7 @@
       </a>
     </td>
         <td align="center" width="92px">
-      <a href="https://github.com/he110-wOrld" target="_blank">
+      <a href="https://github.com/ji-hooo" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/134676310?s=400&u=34078b40b72196dac4999fd8c15d084a73b691a2&v=4" alt="지호 프로필" />
       </a>
     </td>
